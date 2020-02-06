@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class mine {
 
 	public static void main(String[] args) {
+		System.out.println("hiii");
 		System.out.println("Enter First Number");
 		Scanner input = new Scanner(System. in);
 		int x= input. nextInt();
